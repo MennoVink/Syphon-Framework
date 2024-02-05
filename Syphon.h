@@ -29,6 +29,7 @@
 
 #import <Syphon/SyphonServerDirectory.h>
 #import <Syphon/SyphonMetalServer.h>
+#import <Syphon/SyphonServerRendererMetal.h>
 #import <Syphon/SyphonMetalClient.h>
 #import <Syphon/SyphonOpenGLServer.h>
 #import <Syphon/SyphonOpenGLClient.h>

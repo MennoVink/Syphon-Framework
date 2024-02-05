@@ -8,6 +8,7 @@
 .objc_class_name_SyphonOpenGLImage
 .objc_class_name_SyphonImage
 .objc_class_name_SyphonMetalServer
+.objc_class_name_SyphonServerRendererMetal
 .objc_class_name_SyphonMetalClient
 _SyphonServerAnnounceNotification
 _SyphonServerDescriptionAppNameKey
